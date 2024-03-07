@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Vibhu Sharma, <br>A passionate Web App developer, a problem-solving enthusiast, and a Quick-Learner.</h2>
+<h2 align="center">Hi 👋! My name is Vibhu Sharma, <br>A passionate Web-Developer, a problem-solving enthusiast, and a Quick-Learner.</h2>
 
 ###
 
